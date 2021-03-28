@@ -9,6 +9,7 @@ import PrivacyPolicy from './policies/privacy_policy';
 import TermsOfService from './policies/terms_of_service';
 import PageNotFound from './404';
 import FAQ from './faq';
+import Report from  './policies/report';
 
 import * as serviceWorker from './serviceWorker';
 import {
@@ -47,6 +48,9 @@ ReactDOM.render(
           </Route>
           <Route path="/faq">
             <FAQ />
+          </Route>
+          <Route path="/report">
+            <Report />
           </Route>
           <Route>
             <PageNotFound />

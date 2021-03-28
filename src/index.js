@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import './index.css';
 import App from './App';
 import CommunityGuidelines from './policies/community_guidelines';
@@ -7,6 +8,8 @@ import ContentPolicy from './policies/content_policy';
 import PrivacyPolicy from './policies/privacy_policy';
 import TermsOfService from './policies/terms_of_service';
 import PageNotFound from './404';
+import FAQ from './faq';
+
 import * as serviceWorker from './serviceWorker';
 import {
   BrowserRouter as Router,
@@ -41,6 +44,9 @@ ReactDOM.render(
           </Route>
           <Route path="/policy/communityguidelines">
             <CommunityGuidelines />
+          </Route>
+          <Route path="/faq">
+            <FAQ />
           </Route>
           <Route>
             <PageNotFound />

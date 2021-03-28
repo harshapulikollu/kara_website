@@ -4,9 +4,11 @@ import './App.css';
 
 function PageNotFound() {
   return (
-    <div className="App">
-      <header className="App-header">
-       <p>404</p>
+    <div className="Background">
+      <header>
+       <h1 style={{color:'white'}}>404</h1>
+       <h1>NOT FOUND</h1>
+       <a href='/'>Home</a>
       </header>
     </div>
   );

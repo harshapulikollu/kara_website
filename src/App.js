@@ -18,7 +18,9 @@ function App() {
         <div>
           <a href="/policy/privacypolicy">Privacy Policy</a>
           <a href="/policy/termsofservice">Terms Of Service</a>
-          {/* <a href="/faq">FAQ</a> */}
+          <a href="/faq">FAQ</a>
+          <a href="/policy/communityguidelines">Community Guidelines</a>
+          <a href="/policy/contentpolicy">Content Policy</a>
         </div>
     </div>
   );

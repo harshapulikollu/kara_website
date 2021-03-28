@@ -161,7 +161,7 @@ function PrivacyPolicy() {
                 <strong>Contact Us</strong>
             </p>
             <p>
-                If you have any questions or suggestions about my Privacy Policy, do not hesitate to <a href="change this plz to contact"> contact</a>.
+                If you have any questions or suggestions about my Privacy Policy, do not hesitate to <a href="mailto:chillaavo@gmail.com"> contact</a>.
 </p>
         </div>);
 }

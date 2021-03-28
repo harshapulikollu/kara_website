@@ -23,13 +23,13 @@ function ContentPolicy() {
                 <strong>You shall ensure that content posted(shouted) by You</strong>
             </p>
             <p>
-                Is not, in any manner abusive, obscene, defamatory, harassing, vulgar, pornographic, indecent, libelous, racist, hateful, threatening, or otherwise illegal.You acknowledge, confirm and agree that Chillaavo is under no obligation to monitor the content on its Platform, but retains the right to monitor all content posted(shouted) by You. You acknowledge and agree that, in case of any breach of applicable laws or the terms of this policy, You will be solely responsible for any consequences arising out of such breach.
+                Is not, in any manner abusive, obscene, defamatory, harassing, vulgar, pornographic, indecent, libelous, racist, hateful, threatening, or otherwise illegal. You acknowledge, confirm and agree that Chillaavo is under no obligation to monitor the content on its Platform, but retains the right to monitor all content posted(shouted) by You. You acknowledge and agree that, in case of any breach of applicable laws or the terms of this policy, You will be solely responsible for any consequences arising out of such breach.
 </p>
             <p>
                 <strong>Intellectual Property</strong>
             </p>
             <p>
-                You acknowledge, confirm and agree that all intellectual property rights in the Content You post vests with You or You have a valid license to post, display, reproduce, make copies, broadcast, communicate to public such Content on the Platform.When You post content on the Platform, You grant Chillaavo a non-exclusive, perpetual, worldwide, transferable, irrevocable, royalty-free, unlimited license to use, commercially exploit, copy, cache, store, publish, display, distribute, modify, create derivative works and store such Content, including underlying works in the content, posted(shouted) by You. You agree, understand and confirm that You are liable to pay any license fee, royalty, or any other consideration applicable to the content posted(shouted) by You.
+                You acknowledge, confirm and agree that all intellectual property rights in the Content You post vests with You or You have a valid license to post, display, reproduce, make copies, broadcast, communicate to public such Content on the Platform. When You post content on the Platform, You grant Chillaavo a non-exclusive, perpetual, worldwide, transferable, irrevocable, royalty-free, unlimited license to use, commercially exploit, copy, cache, store, publish, display, distribute, modify, create derivative works and store such Content, including underlying works in the content, posted(shouted) by You. You agree, understand and confirm that You are liable to pay any license fee, royalty, or any other consideration applicable to the content posted(shouted) by You.
 </p>
             <p>
                 <strong>Representations and Warranties</strong>
@@ -47,7 +47,7 @@ function ContentPolicy() {
                 <strong>Contact Us</strong>
             </p>
             <p>
-                If you have any questions or suggestions about our Content Policy, do not hesitate to contact us.
+                If you have any questions or suggestions about our Content Policy, do not hesitate to <a href='mailto:chillaavo@gmail.com'>contact us</a>.
 </p>
         </div>);
 }

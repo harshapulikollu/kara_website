@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="Background">
       <div className="App-header">
-      <h1 >Shout your </h1>
-        {/* <h1>your</h1> */}
+      <h1>Coming Soooooon</h1>
+      {/* <h1 >Shout your </h1>
         <TextLoop>
           <h1><span> Creativity</span></h1>
           <h1><span> Love</span></h1>
@@ -20,8 +20,8 @@ function App() {
           <a href="/policy/termsofservice">Terms</a>
           <a href="/faq">FAQ</a>
           <a href="/policy/communityguidelines">Community Guidelines</a>
-          <a href="/policy/contentpolicy">Content Policy</a>
-        </div>
+          <a href="/policy/contentpolicy">Content Policy</a>*/}
+        </div> 
     </div>
   );
 }

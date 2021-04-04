@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kara_website/static/css/main.ba846bd3.chunk.css",
-    "main.js": "/kara_website/static/js/main.490a4104.chunk.js",
-    "runtime-main.js": "/kara_website/static/js/runtime-main.465bd838.js",
-    "static/js/2.6a2adb3a.chunk.js": "/kara_website/static/js/2.6a2adb3a.chunk.js",
-    "index.html": "/kara_website/index.html",
-    "precache-manifest.23fa3c0d2155e2e8067e388783f4fb8f.js": "/kara_website/precache-manifest.23fa3c0d2155e2e8067e388783f4fb8f.js",
-    "service-worker.js": "/kara_website/service-worker.js",
-    "static/js/2.6a2adb3a.chunk.js.LICENSE.txt": "/kara_website/static/js/2.6a2adb3a.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.ba846bd3.chunk.css",
+    "main.js": "/static/js/main.af9d011f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.0385af83.js",
+    "static/js/2.6a2adb3a.chunk.js": "/static/js/2.6a2adb3a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.c077845ddc21caababf973fb38047388.js": "/precache-manifest.c077845ddc21caababf973fb38047388.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.6a2adb3a.chunk.js.LICENSE.txt": "/static/js/2.6a2adb3a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.465bd838.js",
+    "static/js/runtime-main.0385af83.js",
     "static/js/2.6a2adb3a.chunk.js",
     "static/css/main.ba846bd3.chunk.css",
-    "static/js/main.490a4104.chunk.js"
+    "static/js/main.af9d011f.chunk.js"
   ]
 }

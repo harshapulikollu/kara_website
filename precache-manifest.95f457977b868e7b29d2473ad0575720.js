@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3487362372cf3e8999b0a4f85efa9a04",
+    "revision": "4415985ac5bfc4fcc0e9e1c1afb92389",
     "url": "/kara_website/index.html"
   },
   {
-    "revision": "f6e2f575256f30e907ce",
+    "revision": "b86999efc42e3c78e35f",
     "url": "/kara_website/static/css/main.ba846bd3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kara_website/static/js/2.6a2adb3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6e2f575256f30e907ce",
-    "url": "/kara_website/static/js/main.fd5a75a4.chunk.js"
+    "revision": "b86999efc42e3c78e35f",
+    "url": "/kara_website/static/js/main.8c18ddbc.chunk.js"
   },
   {
     "revision": "919f73910b74b2cdc9af",

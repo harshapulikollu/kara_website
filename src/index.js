@@ -20,7 +20,7 @@ import {
 
 ReactDOM.render(
   <React.StrictMode>
-     <Router>
+     <Router basename={'/kara_website'}>
       <div>
         {/*
           A <Switch> looks through all its children <Route>

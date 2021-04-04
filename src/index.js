@@ -20,7 +20,7 @@ import {
 
 ReactDOM.render(
   <React.StrictMode>
-     <Router basename={process.env.PUBLIC_URL}>
+     <Router>
       <div>
         {/*
           A <Switch> looks through all its children <Route>

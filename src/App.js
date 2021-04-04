@@ -16,8 +16,8 @@ function App() {
       </div>
         <a href='https://play.google.com/store/apps/details?id=com.chillaavo.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play'  height="100"width="270" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
         <div>
-          <a href="/policy/privacypolicy">Privacy Policy</a>
-          <a href="/policy/termsofservice">Terms Of Service</a>
+          <a href="/policy/privacypolicy">Privacy policy</a>
+          <a href="/policy/termsofservice">Terms</a>
           <a href="/faq">FAQ</a>
           <a href="/policy/communityguidelines">Community Guidelines</a>
           <a href="/policy/contentpolicy">Content Policy</a>

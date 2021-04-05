@@ -32,7 +32,7 @@ function TermsOfService() {
                 By using the service you agree to get tailor based content for you depending on your usage of service.
 </p>
             <p>
-                You also agree that other users can block or report your profile, reports from multiple user might lead to ban or disable of your profile.
+                You also agree that other users can block or report your profile, reports from multiple users might lead to ban or disable of your profile.
 </p>
             <p>
                 Chillaavo and the service have all rights with the data that is uploaded or posted or shouted into the app.We may use all the information we have to help us operate, provide, improve, understand, customize, support, and market service.

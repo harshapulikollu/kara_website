@@ -61,6 +61,56 @@ function FAQ() {
                         aria-controls="panel2a-content"
                         id="panel2a-header"
                     >
+                        <Typography className={classes.heading}>How to Wishprr</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Typography>
+                            Just like shout click on + icon in your main feed page and select image or video you want to share and click next.
+                            Once you click next, now click on advance settings to expand and show other options which are available for you.
+                            In advance settings, you can toggle on or off whisprr option.
+                            If you toggle on wishppr for the first time, App will prompt you to select close people.
+                            Once you done with selection, now you can click on shout/wishprr button to uplaod content.
+          </Typography>
+                    </AccordionDetails>
+                </Accordion>
+
+
+                <Accordion>
+                    <AccordionSummary
+                        expandIcon={<ExpandMoreIcon />}
+                        aria-controls="panel2a-content"
+                        id="panel2a-header"
+                    >
+                        <Typography className={classes.heading}>How to select or change close friends</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Typography>
+                            Adding user to close people list:
+
+                            Just like shout click on + icon in your main feed page and select image or video you want to share and click next.
+                            Once you click next, now click on advance settings to expand and show other options which are available for you.
+                            In advance settings, you can see whisprr option.
+                            Click on choose close people subtext of wishprr, If it's first time or you don't have any close people selected it will prompt you with instructions.
+                            After that you can click on search button on bottom right and search for users, once you found the user
+                            you can click on Add button to add that user to your close people list.
+
+                            Removing user from close people list:
+
+                            Follow same steps like add users, once you are in close people list page. You can already see all the close people you
+                            selected in past. From the list you can click on remove button next to the user you want to remove from close people list.
+
+                            Note:
+                            User won't be notitifed if you are Adding and removing user to close people list.
+          </Typography>
+                    </AccordionDetails>
+                </Accordion>
+
+                <Accordion>
+                    <AccordionSummary
+                        expandIcon={<ExpandMoreIcon />}
+                        aria-controls="panel2a-content"
+                        id="panel2a-header"
+                    >
                         <Typography className={classes.heading}>What is Story</Typography>
                     </AccordionSummary>
                     <AccordionDetails>

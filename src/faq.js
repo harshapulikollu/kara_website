@@ -65,7 +65,7 @@ function FAQ() {
                     </AccordionSummary>
                     <AccordionDetails>
                         <Typography>
-                            Just like shout click on + icon in your main feed page and select image or video you want to share and click next.
+                            Just like shout click on <b>+</b> icon in your main feed page and select image or video you want to share and click next.
                             Once you click next, now click on advance settings to expand and show other options which are available for you.
                             In advance settings, you can toggle on or off whisprr option.
                             If you toggle on wishppr for the first time, App will prompt you to select close people.
@@ -117,6 +117,58 @@ function FAQ() {
                         <Typography>
                             Story is way of uploading media to your followers and stories will last only 24hours from the time 
                             you uplaod it.
+          </Typography>
+                    </AccordionDetails>
+                </Accordion>
+
+            
+
+                <Accordion>
+                    <AccordionSummary
+                        expandIcon={<ExpandMoreIcon />}
+                        aria-controls="panel2a-content"
+                        id="panel2a-header"
+                    >
+                        <Typography className={classes.heading}>How to delete story</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Typography>
+As of chillaavo client <b>v1.0.75</b>, we don't support deleting a posted story yet. We are working to add it as soon as possible.
+          </Typography>
+                    </AccordionDetails>
+                </Accordion>
+
+                <Accordion>
+                    <AccordionSummary
+                        expandIcon={<ExpandMoreIcon />}
+                        aria-controls="panel2a-content"
+                        id="panel2a-header"
+                    >
+                        <Typography className={classes.heading}>What is ReShout</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Typography>
+                           Reshout is way of sharing others shouts for more reach. You can do a reshout in two ways.<br/>
+                           <ul>
+                           <li>By clicking reshout button without adding any description to reshout.</li>
+                           <li>By Adding description before clicking reshout button.</li>
+                           </ul>
+          </Typography>
+                    </AccordionDetails>
+                </Accordion>
+
+                <Accordion>
+                    <AccordionSummary
+                        expandIcon={<ExpandMoreIcon />}
+                        aria-controls="panel2a-content"
+                        id="panel2a-header"
+                    >
+                        <Typography className={classes.heading}>What is difference between ReShout and ReShout without description</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Typography>
+The main difference between a ReShout and ReShout with description is for the only reshout the likes, comments and shares will be under the original shout user.
+For reshout with description the likes, comments and shares were considered under your reshout with description.
           </Typography>
                     </AccordionDetails>
                 </Accordion>

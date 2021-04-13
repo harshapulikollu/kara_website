@@ -3,7 +3,6 @@ import { Route } from 'react-router';
 
 export default (
     <Route>
-	<Route path='/' />
 	<Route path='/policy/termsofservice' />
     <Route path='/policy/privacypolicy' />
     <Route path='/policy/termsofservice' />

@@ -35,7 +35,7 @@ function TermsOfService() {
                 You also agree that other users can block or report your profile, reports from multiple users might lead to ban or disable of your profile.
 </p>
             <p>
-                Chillaavo and the service have all rights with the data that is uploaded or posted or shouted into the app.We may use all the information we have to help us operate, provide, improve, understand, customize, support, and market service.
+                Chillaavo and the service have all rights with the data that is uploaded or posted or shouted into the app. We may use all the information we have to help us operate, provide, improve, understand, customize, support, and market service.
 </p>
             <p>
                 You agree that the data will remain in our servers for some days even after the uploader deletes it from their profile for some legal and Chillaavo’s auditing purpose.
@@ -57,6 +57,26 @@ function TermsOfService() {
                 <li><a className="App-link" href="https://firebase.google.com/terms/crashlytics">Firebase Crashlytics</a>
                 </li>
             </ul>
+           <p>Prohibited activity</p>
+           <p>You agree, undertake and confirm that Your use of the Platform shall be strictly governed by, including but not limited to the following:</p>
+           <ul>
+           <li>You shall not illegally download/save the Content accessed through the Platform at any given time,
+                or circumvent any technological measures employed by Chillaavo to prevent unauthorised access to or copying of Content or any part of the Platform.</li>
+            <li>You shall not alter or modify any part of the Platform and/or use the Platform for any illegal purpose.</li>
+            <li>You shall not reformat or frame any portion of any web page that is part of the Platform.</li>
+            <li>You shall not collect or harvest or attempt to collect personal data, or any other kind of information about other Users, including without limitation, through spidering or any form of scraping.</li>
+            <li>The Platform is not intended to be used to upload news/current affairs content, and Chillaavo reserves the right to take down any such content and/or to block any users that post such content.</li>
+            <li>You shall not post advertisements, promotions or solicitations of business or solicit Users or post spam or any other form of solicitation or spam; post or transmit any communication or solicitation designed or intended to obtain the password, account or private information from any other User.</li>
+            <li>You shall not deliberately impersonate another person, whether real or fictional or otherwise misrepresent Your affiliation with a person or entity, for example, by registering an account in the name of another person or company, or sending messages or making comments using the name of another person impersonate other Users or otherwise fake Your identity.</li>
+            <li>You shall not rent, sell or transfer or lease or offer to sell or transfer access to the Platform and/or any Chillaavo account or permit any third parties to use Your name and password, or any Content on the Platform.</li>
+            <li>You shall not resell or commercially use the Platform or any of its Content, or download or copy account information for the benefit of Yourself or any third-party. The Platform is for personal use only and may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose.</li>
+            <li>You shall not commit or engage in, or encourage, induce, solicit or promote, any conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any law or regulation; or use the Platform for any illegal or unauthorized purpose; You agree to comply with all local laws applicable to Your conduct and the content and information, including hyperlinks, that You upload, store, share or transmit using the Platform.</li>
+            <li>You shall not alter or remove, attempt to alter or remove any trademark, copyright or other proprietary or legal notices contained in, or appearing on, the Platform or on any Content appearing on the Platform. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, content, music, text, page layout, or form) of Chillaavo and our affiliates or other Users. You may not use any meta-tags or any other "hidden text" utilizing Chillaavo's name or trademarks without the express written consent of Chillaavo. Any unauthorized use terminates the permission or license granted by Chillaavo. You may not use any Chillaavo logo or other proprietary graphic or trademark as part of the link without Chillaavo's advance express written permission.</li>
+            <li>You shall not employ scraping or similar techniques to aggregate, repurpose, adapt, copy, republish, make available or otherwise communicate to the public, display, perform, transfer, share, distribute or otherwise use or exploit the Content except via the features provided in the Platform.</li>
+            <li>You shall not, permit any third party to, copy or adapt the object code of the Platform, or reverse engineer, reverse assemble, decompile, modify or attempt to discover any source or object code of any part of the Platform, or circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information pertaining to the Content or Platform.</li>
+            <li>You shall not transmit any viruses, worms, defects, Trojan horse, cancel bots, spyware, other items of a contaminating or destructive nature, adware, packet or IP spoofing, forged routing or electronic mail address information or similar methods or technology harmful code, flood pings, malware, bot, time bomb, worm, or other harmful or malicious component, which or might overburden, impair or disrupt the Platform or networks forming part of, or connected to, the Platform, or which does or might restrict or inhibit any other User's use and enjoyment of the Platform</li>
+               <li>You shall not stalk, exploit, threaten, abuse or otherwise harass another User, or any Chillaavo employee.</li>
+               </ul> 
             <p>
                 You should be aware that there are certain things that Chillaavo will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Chillaavo cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 </p>

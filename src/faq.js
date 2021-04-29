@@ -35,7 +35,7 @@ function FAQ() {
                     </AccordionSummary>
                     <AccordionDetails>
                         <Typography>
-                            In Chillaavo, shout is same as post in other social media apps. 
+                            In Chillaavo, shout is same as post in other social media apps.
                             When you upload a image or video to followers in Chillaavo we call it as a shout.
           </Typography>
                     </AccordionDetails>
@@ -115,13 +115,13 @@ function FAQ() {
                     </AccordionSummary>
                     <AccordionDetails>
                         <Typography>
-                            Story is way of uploading media to your followers and stories will last only 24hours from the time 
+                            Story is way of uploading media to your followers and stories will last only 24hours from the time
                             you uplaod it.
           </Typography>
                     </AccordionDetails>
                 </Accordion>
 
-            
+
 
                 <Accordion>
                     <AccordionSummary
@@ -133,7 +133,7 @@ function FAQ() {
                     </AccordionSummary>
                     <AccordionDetails>
                         <Typography>
-As of chillaavo client <b>v1.0.75</b>, we don't support deleting a posted story yet. We are working to add it as soon as possible.
+                            As of chillaavo client <b>v1.0.75</b>, we don't support deleting a posted story yet. We are working to add it as soon as possible.
           </Typography>
                     </AccordionDetails>
                 </Accordion>
@@ -148,12 +148,12 @@ As of chillaavo client <b>v1.0.75</b>, we don't support deleting a posted story 
                     </AccordionSummary>
                     <AccordionDetails>
                         <Typography>
-                           Reshout is way of sharing others shouts for more reach. You can do a reshout in two ways.<br/>
-                           <ul>
-                           <li>By clicking reshout button without adding any description to reshout.</li>
-                           <li>By Adding description before clicking reshout button.</li>
-                           </ul>
-          </Typography>
+                            Reshout is way of sharing others shouts for more reach. You can do a reshout in two ways.<br />
+                            <ul>
+                                <li>By clicking reshout button without adding any description to reshout.</li>
+                                <li>By Adding description before clicking reshout button.</li>
+                            </ul>
+                        </Typography>
                     </AccordionDetails>
                 </Accordion>
 
@@ -167,14 +167,32 @@ As of chillaavo client <b>v1.0.75</b>, we don't support deleting a posted story 
                     </AccordionSummary>
                     <AccordionDetails>
                         <Typography>
-The main difference between a ReShout and ReShout with description is for the only reshout the likes, comments and shares will be under the original shout user.
-For reshout with description the likes, comments and shares were considered under your reshout with description.
-          </Typography>
+                            The main difference between a ReShout and ReShout with description is for the only reshout the likes, comments and shares will be under the original shout user.
+                            For reshout with description the likes, comments and shares were considered under your reshout with description.
+                        </Typography>
+                    </AccordionDetails>
+                </Accordion>
+
+                <Accordion>
+                    <AccordionSummary
+                        expandIcon={<ExpandMoreIcon />}
+                        aria-controls="panel2a-content"
+                        id="panel2a-header"
+                    >
+                        <Typography className={classes.heading}>How to change/switch profile type from personal to business or public or viceversa</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Typography>
+                           It's very easy to change your profile type. <br /> Chillaavo has 3 types of profiles, Private, Public and Business.
+                           <br /> In order to switch profile type navigate to edit profile page from your profile page by clicking on 'edit profile' button under your username.
+                           After navigating to edit profile page, by scrolling to last, you can find a button a switch your profile.
+                           Click on this, a new page with options will open, then select the appropiate profile for you and save to your changes.
+                        </Typography>
                     </AccordionDetails>
                 </Accordion>
             </div>
 
-            <a href ='/'>Home</a>
+            <a href='/'>Home</a>
         </div>
     )
 }
